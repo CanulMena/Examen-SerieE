@@ -3,6 +3,3 @@ node_modules/
 
 # Archivos compilados de TypeScript
 dist/
-
-# Archivos de entorno
-.env
